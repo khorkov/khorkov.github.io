@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /images/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /php/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /images/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /php/
+
+Host: ezubr.ru
